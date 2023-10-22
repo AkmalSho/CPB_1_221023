@@ -8,7 +8,7 @@ body {
     margin: auto;
     border: 1px solid #ccc;
     padding: 20px;
-    border-radius: 5px;
+    border_radius: 5px;
 }
 
 .hidden {
